@@ -1,12 +1,12 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "notes": "Versão Mensalidade",
     "pub_date": "2026-09-05T18:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFhRVpBd1ZueEpJMXRpSi81by9EYmJqaHVIY3BMWm1hWlRiTFVxdlBUNWcyNnA0TTdnSDVPM05pVDJMcDRhSWd4Y3NWZUI4cUN1bG5HS09EcFQxOHdtMHJiTW1McHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE2MzEyCWZpbGU6U2ltcGxpZmljYVBEVl8wLjEuOF94NjRfcHQtQlIubXNpCldGQXJ2NklHK255ZGY5NDBaaG9xeEJaQXFIYnRWemZZcEw4N0k0UnJ2cWhhVnBJeGh1bHpkaUlFTFJwWGtDaDV6Z1NtMi9SdEtOYWRqSWxyaDJSK0F3PT0K",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFhRVpBd1ZueEZsUDFXTmN0T2dJVmIvaHNmalU4VmdQKytCQlhvNUtvdldvWTliVm85OFJKYi9CK1lhVHA5WUdSbXV6eVRoNkZBU1VyUWt3MkRwVGJUTGc2WGVudEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE5MDU4CWZpbGU6U2ltcGxpZmljYVBEVl8wLjEuOV94NjRfcHQtQlIubXNpCjhtZ09wZ1BIcmxIRWF4dXZRazVhdEwxMzhIUC9udTVlbEFUUVJnd0swUldLUGZNK2xGbzBZRENuRkZrQnFVelQrY2xlcCtaZUtTQ3Y3cW5oVTFSSkNnPT0K",
         "url":
-        "https://github.com/gbtrajano/simplificapdv.json/releases/download/v0.1.8/SimplificaPDV_0.1.8_x64_pt-BR.msi"
+        "https://github.com/gbtrajano/simplificapdv.json/releases/download/v.0.1.9/SimplificaPDV_0.1.9_x64_pt-BR.msi"
       }
     }
   }
