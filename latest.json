@@ -1,12 +1,12 @@
 {
-    "version": "0.1.7",
-    "notes": "Fix de dados iniciais",
+    "version": "0.1.8",
+    "notes": "Versão Mensalidade",
     "pub_date": "2026-09-05T18:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFhRVpBd1ZueFBwYzQ5NXo4Qk5oUDJ3QzgrWThzTG1oTDAwcERQYmxObE01ZGQzUnA4eGVrZVlQZ29jSUlaYzd5c0s4b2tLczVHRm9kR1VJY2k2UWxZSENyOTE4Qmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODI0MDE4CWZpbGU6RGVzY29tcGxpY2FQRFZfMC4xLjdfeDY0X3B0LUJSLm1zaQo4dWhwb1ZvTWJLVUlRQnRINmQ0YjNRU3pnRkVoVzRKOUttbm1GNllOYlZKaWtFd0pJVDZoUmJYRDczUmNRSXI5cytEbTk3dFZsMmJjeVo5TWJHbE5BUT09Cg==",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFhRVpBd1ZueEpJMXRpSi81by9EYmJqaHVIY3BMWm1hWlRiTFVxdlBUNWcyNnA0TTdnSDVPM05pVDJMcDRhSWd4Y3NWZUI4cUN1bG5HS09EcFQxOHdtMHJiTW1McHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTE2MzEyCWZpbGU6U2ltcGxpZmljYVBEVl8wLjEuOF94NjRfcHQtQlIubXNpCldGQXJ2NklHK255ZGY5NDBaaG9xeEJaQXFIYnRWemZZcEw4N0k0UnJ2cWhhVnBJeGh1bHpkaUlFTFJwWGtDaDV6Z1NtMi9SdEtOYWRqSWxyaDJSK0F3PT0K",
         "url":
-        "https://github.com/gbtrajano/descomplicapdv.json/releases/download/v0.1.7/DescomplicaPDV_0.1.7_x64_pt-BR.msi"
+        "https://github.com/gbtrajano/simplificapdv.json/releases/download/v0.1.8/SimplificaPDV_0.1.8_x64_pt-BR.msi"
       }
     }
   }
