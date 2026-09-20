@@ -1,12 +1,12 @@
 {
-    "version": "0.1.11",
-    "notes": "Configuração de Impressoras e Integração com PIX",
+    "version": "0.1.12",
+    "notes": "Versão de Lançamento",
     "pub_date": "2026-09-05T18:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFhRVpBd1ZueEd4Z3BlYk92VllIdkh5T3BiZ1pYUHBZT1N4dHZadmpwdWE3ZFlQV2p0QzhOc0xrNEUzaG94UUxqMGVsMFAyZEpWMWEyckgxZ2QxMUJLSldIZm1PcndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTM4NTMwCWZpbGU6U2ltcGxpZmljYVBEVl8wLjEuMTFfeDY0X3B0LUJSLm1zaQpNdnVUeWwxZElLdVNZS3JZV05QNDdKQjNwUVFCZXdMcVlnM1dyWWxrUjQ0MlplaExiZm1QRkhGYnN1TWV5VW0wNE5lMWV0SWFnSWN4NzBQaXVVbTdBUT09Cg==",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHFhRVpBd1ZueEVBTkJYRXpPakFqcUhTQkpYTERocjBxS0xHSklWWHlaVmJxS2hRVnhxOXUySERvSHJaZUFNQmhnTjhGSjBkaFRIRVlDZlBFTHZBckFGL1ZpTUJmN3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQxMDA2CWZpbGU6U2ltcGxpZmljYVBEVl8wLjEuMTJfeDY0X3B0LUJSLm1zaQpwY0tOQWFBUHdIeHZoM3lMd25OOEpzNTJMQWxsSDZpUllxWVFQM0cwa3VGY3RweXlDa3ZYQUtPWC9kejNFd2FTSGxHOUtqcTkxTzBTakhUSlh6WDJEZz09Cg==",
         "url":
-        "https://github.com/gbtrajano/simplificapdv.json/releases/download/v0.1.11/SimplificaPDV_0.1.11_x64_pt-BR.msi"
+        "https://github.com/gbtrajano/simplificapdv.json/releases/download/v0.1.12/SimplificaPDV_0.1.12_x64_pt-BR.msi"
       }
     }
   }
